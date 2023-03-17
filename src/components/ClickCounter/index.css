@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.container {
+  background-color: white;
+  height: 100vh;
+  background-size: cover;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 3px;
+  border-width: 0px;
+  border-color: white;
+}
+.heading {
+  font-family: Roboto;
+  font-size: 25px;
+  font-weight: bold;
+  color: black;
+}
+.span {
+  color: pink;
+  font-size: 25px;
+  font-weight: bold;
+}
+.button {
+  height: 25px;
+  width: 60px;
+  background-color: blue;
+  color: white;
+}
